@@ -2,7 +2,7 @@ Hi, I’m Alex – a UI/UX and digital product designer. 👨‍🎨
 
 In my free time I work on [my apps](https://www.pxlwaves.com/) – small apps that make your everyday life easier. Besides that I love to contribute to open source projects and the design community with my own projects.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/alexkaessner?style=social)](https://twitter.com/alexkaessner) [![Dribbble Portfolio](https://img.shields.io/badge/Dribbble-Portfolio-ea4c89?logo=dribbble&color=ea4c89&style=social&link=https://dribbble.com/alexkaessner)](https://dribbble.com/alexkaessner)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alexkaessner?style=social)](https://twitter.com/alexkaessner)&emsp;[![Mastodon Follow](https://img.shields.io/mastodon/follow/109675685276434599?domain=https%3A%2F%2Fmas.to&style=social)](https://mas.to/@alexkaessner)&emsp;[![Dribbble Portfolio](https://img.shields.io/badge/Dribbble-Portfolio-ea4c89?logo=dribbble&color=ea4c89&style=social&link=https://dribbble.com/alexkaessner)](https://dribbble.com/alexkaessner)
 
 <!--
 **alexkaessner/alexkaessner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
